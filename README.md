@@ -3,11 +3,11 @@ Deep learning basics class. Learn and practice basic concepts of machine learnin
 
 ## 목차
 
-### Linear Regression
-### Logistic Regression
-### Decision Tree
-### PCA
-### SVM
-### Deep Neural Network
-### Convolutional Neural Network
-### Object Dectection
+### 1. Linear Regression
+### 2. Logistic Regression
+### 3. Decision Tree
+### 4. PCA
+### 5. SVM
+### 6. Deep Neural Network
+### 7. Convolutional Neural Network
+### 8. Object Dectection
