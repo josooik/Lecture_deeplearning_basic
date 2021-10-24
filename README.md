@@ -5,9 +5,10 @@ Deep learning basics class. Learn and practice basic concepts of machine learnin
 
 ### 1. Linear Regression
 ### 2. Logistic Regression
-### 3. Decision Tree
-### 4. PCA
-### 5. SVM
-### 6. Deep Neural Network
-### 7. Convolutional Neural Network
-### 8. Object Dectection
+### 3. Softmax Regression
+### 4. Decision Tree
+### 5. PCA
+### 6. SVM
+### 7. Deep Neural Network
+### 8. Convolutional Neural Network
+### 9. Object Dectection
